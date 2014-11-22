@@ -11,7 +11,7 @@
 #===============================================================================================
 #_______________________________________________________________________________________________
 #Function: makeCacheMatrix
-# This function creates a special "matrix" object that can cache its inverse. 
+# This function creates a special "matrix" list that can cache its inverse. 
 
 #Inputs: x -- An invertable matrix.
 #Returns:  -- A list of four functions associated with the getting and setting the matrix and its 
